@@ -34,6 +34,11 @@
             bindings = <&kp LG(LS(K))>;
             key-positions = <52 24 32>;
         };
+
+        d {
+            bindings = <&kp TILDE>;
+            key-positions = <36 0>;
+        };
     };
 
     keymap {
