@@ -102,9 +102,9 @@ layers:
   - BSPC
   - {t: ▽, type: trans}
   - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - AC CUT
+  - AC COPY
+  - AC PASTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
