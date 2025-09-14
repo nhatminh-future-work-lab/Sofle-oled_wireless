@@ -12,7 +12,7 @@ layers:
   - F6
   - F7
   - F8
-  - F9
+  - Gui+Sft+P
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '`'
